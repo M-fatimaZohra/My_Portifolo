@@ -20,7 +20,7 @@ function Header() {
   return (
     <div className="flex  flex-row   justify-between items-center sm:py-2 py-0 px-8 bg-[#F9F9F9] shadow-md text-[#1A1A1A]">
       
-      <div className="sm:text-[30px] text-[20px] py-2" style={newRocker.style}><Link href="/">FATIMA'S PORTFOLIO</Link></div>
+      <div className="sm:text-[30px] text-[20px] py-2" style={newRocker.style}><Link href="/">FATIMA&apos;S PORTFOLIO</Link></div>
 
       <div className="sm:flex hidden flex-row gap-4 ">
         <Link href="/About" className="hover:-skew-6 transition-discrete duration-75">About</Link>

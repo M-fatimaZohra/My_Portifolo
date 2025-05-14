@@ -10,7 +10,7 @@ function Skills() {
     <div className="md:px-10 sm:px-8 px-4 py-8 h-auto w-full" style={nunito.style}>
         <div className='flex flex-col gap-4'>
             <h1 className=' sm:text-[60px] text-[30px] font-medium'>My Skills</h1>
-            <p className='sm:text-[25px] text-[16px]'>Languages, frameworks, and tools I've used throughout my development journey:</p>
+            <p className='sm:text-[25px] text-[16px]'>Languages, frameworks, and tools I&apos;ve used throughout my development journey:</p>
 
             <div>
                   <div className='flex flex-row gap-4 flex-wrap justify-center items-center'>

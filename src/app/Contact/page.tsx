@@ -1,15 +1,7 @@
 import { Nunito } from 'next/font/google';
 import React from 'react'
-import { New_Rocker } from 'next/font/google'
 import Image from 'next/image';
-import { Button } from '@/components/ui/button';
-import Link from 'next/link';
 import ContactCard from '../Component/CTA/ContactMe/ContactMe';
-
-const newRocker = New_Rocker({
-  weight: "400",
-  subsets: ["latin"],
-});
 
 const nunito = Nunito({ weight: ["400", "700"], subsets: ["latin"] });
 function page() {

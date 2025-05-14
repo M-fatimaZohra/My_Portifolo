@@ -21,13 +21,13 @@ function About() {
               Introduction
             </h2>
             <p className=" leading-loose sm:text-[16px] text-[12px]">
-              Hello! I'm <b>Fatima Zohra</b>, a passionate Frontend Developer
+              Hello! I&apos;m <b>Fatima Zohra</b>, a passionate Frontend Developer
               and Web Developer with a strong blend of design and development
               skills. My journey started on{" "}
               <u>
                 <b>February 14, 2024, at GIAIC</b>
               </u>
-              , and since then, I’ve been deeply committed to honing my craft
+              , and since then, I&apos;ve been deeply committed to honing my craft
               through hands-on experience with real-world projects and
               challenges from Panaverse and Panaversity.
             </p>
@@ -75,7 +75,7 @@ function About() {
             </h2>
             <p className=" leading-loose sm:text-[16px] text-[12px]">
               I also specialize in <b>TypeScript</b>, using it extensively for
-              both CLI-based applications and dynamic web projects. Whether it's
+              both CLI-based applications and dynamic web projects. Whether it&apos;s
               building robust command-line tools or developing sophisticated
               features for web apps, I leverage TypeScript to ensure clean,
               scalable, and highly maintainable code. The strong typing and

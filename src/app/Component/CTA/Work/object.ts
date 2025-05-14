@@ -29,7 +29,7 @@ class MyWork {
     }
 }
 
-let myWork: MyWork[] = [
+const myWork: MyWork[] = [
     new MyWork(
         "Who I Am",
         "A personal homepage designed to showcase skills, hobbies, and interests. Features a custom layout with a responsive header, footer, and hero section, styled with custom CSS.",

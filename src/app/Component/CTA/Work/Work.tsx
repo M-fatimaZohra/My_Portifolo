@@ -2,7 +2,7 @@ import React from "react";
 import myWork from "./object";
 import Image from "next/image";
 import { Nunito } from "next/font/google";
-import Link from "next/link";
+
 
 const nunito = Nunito({ weight: ["400", "700"], subsets: ["latin"] });
 
@@ -16,7 +16,7 @@ function Work() {
       <div className="flex flex-col gap-4">
         <h1 className=" sm:text-[60px] text-[30px] ">My Work</h1>
         <p className="sm:text-[25px] text-[16px]">
-          Languages, frameworks, and tools I've used throughout my development
+          Languages, frameworks, and tools I&apos;ve used throughout my development
           journey:
         </p>
 

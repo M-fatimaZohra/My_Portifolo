@@ -40,7 +40,7 @@ export default function ContactCard() {
           <Button variant="default" size="default">Submit! </Button>
      </div>
        <input type="hidden" name="_captcha" value="false" />
-<input type="hidden" name="_next" value="http://localhost:3000/Component/CTA/thank" />
+<input type="hidden" name="_next" value="https://fatima-zohra-portfolio.vercel.app/Component/CTA/thank" />
 
 
      </CardContent>
